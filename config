@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/AshutosMishra/Angular-Spring-Boot-Project-with-monolithic-architecture.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
